@@ -21,5 +21,3 @@ https://colab.research.google.com/
 5.  Click on the assingment file you want to complete
 
 
-
-
