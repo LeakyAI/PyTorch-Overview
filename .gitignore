@@ -13,3 +13,5 @@
 modelCheckpoint.pt
 modelcheckpoint.pth
 trainingModelCheckpoint.pt
+DatasetGenerator.ipynb
+vehicles.csv
