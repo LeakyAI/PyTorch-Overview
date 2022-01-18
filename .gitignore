@@ -15,3 +15,4 @@ modelcheckpoint.pth
 trainingModelCheckpoint.pt
 DatasetGenerator.ipynb
 vehicles.csv
+old/Training and Inference - Solution.ipynb
