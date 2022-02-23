@@ -3,7 +3,9 @@
 Copyright 2021 Leaky.AI LLC
 
 ## Overview
-This repo contains the exercises for the http://www.leaky.ai course called <b>Introduction to Deep Learning with PyTorch</b>.
+This repo contains the exercises for the course called <b>Introduction to A.I. Programming with PyTorch</b>.  
+
+Link the course can be found here:  https://www.leaky.ai/introduction-to-ai-programming-with-pytorch-course-beginner 
 
 ## Directions
 In order to complete this assingment:
