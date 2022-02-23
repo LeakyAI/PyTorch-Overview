@@ -3,10 +3,10 @@
 Copyright 2021 Leaky.AI LLC
 
 ## Overview
-This repo contains the exercises for the course called <b>Introduction to A.I. Programming with PyTorch</b> by leaky.ai LLC.  The link to the course can be found here:  https://www.leaky.ai/introduction-to-ai-programming-with-pytorch-course-beginner 
+This repo contains the exercises for the course <b>Introduction to A.I. Programming with PyTorch</b>.  The link to the course can be found here:  https://www.leaky.ai/introduction-to-ai-programming-with-pytorch-course-beginner 
 
 ## Directions
-In order to complete this assingment:
+In order to complete the assingments and projects:
 
 1.  Copy the following link:
 https://github.com/LeakyAI/PyTorch-Overview
