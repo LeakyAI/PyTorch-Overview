@@ -1,6 +1,6 @@
 # PyTorch-Overview
 
-Copyright 2021 Leaky.AI LLC
+Copyright 2023 Leaky.AI LLC
 
 ## Overview
 This repo contains the exercises for the course <b>Introduction to A.I. Programming with PyTorch</b>.  The link to the course can be found here:  https://www.leaky.ai/introduction-to-ai-programming-with-pytorch-course-beginner 
